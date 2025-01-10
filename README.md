@@ -60,4 +60,4 @@ Technologies Used
 ### Contact
 Nikitha Nallure - [niki.nallure@gmail.com](mailto:niki@nallure.com)
 
-Project Link: https://github.com/yourusername/salary-predictor-api
+Project Link: https://github.com/nnallure/SalaryPredictorAPI
